@@ -1,2 +1,2 @@
 # vue-js-laravel
-Vue.JS &amp; laravel 5.3
+Vue.JS &amp; laravel 5.4
